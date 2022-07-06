@@ -1,0 +1,25 @@
+
+  .full-home {
+    display: grid;
+    grid-template-columns: 0.3fr 5fr;
+    height: 99vh;
+    margin-right: 4rem;
+  }
+  .home {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 2rem;
+  }
+  p {
+    font-size: 3.5rem;
+    margin: 0;
+  }
+  .footer {
+    position: sticky;
+    bottom: 1.5rem;
+  }
+  h1 {
+    margin: 0;
+  }
+ 

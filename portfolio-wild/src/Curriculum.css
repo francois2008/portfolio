@@ -1,0 +1,26 @@
+img {
+    height: 35rem;
+    width: 25rem;
+  }
+  .full-curriculum {
+    display: grid;
+    grid-template-columns: 0.3fr 5fr;
+    height: 99vh;
+    margin-right: 4rem;
+  }
+  .curriculum {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    margin-top: 1rem;
+    align-items: center;
+  }
+  .curriculum h1 {
+    font-size: 3rem;
+  }
+  .footer {
+    position: sticky;
+    bottom: 1.5rem;
+  }
+
